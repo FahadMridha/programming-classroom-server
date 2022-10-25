@@ -1,0 +1,69 @@
+[
+  {
+    "id": "63577eee4f489f93cbc3657b",
+    "index": 0,
+    "name": "Program with C",
+    "picture": "https://cdn.asaha.com/assets/thumbs/67b/67b163acd9f5cd1abd6765520893a910.jpg",
+    "price": 34,
+    "author": "Noel Kalicharan",
+    "gender": "female",
+    "company": "ORBIXTAR",
+    "email": "feliciapollard@orbixtar.com"
+  },
+  {
+    "id": "63577eeeafaf566a92995387",
+    "index": 1,
+    "name": "Program with OOP",
+    "picture": "https://cdn.asaha.com/assets/thumbs/ae9/ae9081d4ea4a0146ef6b6abef3cda18d.jpg",
+    "price": 24,
+    "author": "Robin A.",
+    "gender": "male",
+    "company": "MELBACOR",
+    "email": "pacegay@melbacor.com"
+  },
+  {
+    "id": "63577eeefc348878cf0f5e5e",
+    "index": 2,
+    "name": "Program with JavaScript",
+    "picture": "https://cdn.asaha.com/assets/thumbs/28a/28af716d5125df62215719b121524ebd.jpg",
+    "price": 33,
+
+    "author": "Stephen Blumenthal",
+    "gender": "male",
+    "company": "TERRASYS",
+    "email": "zamoraboyer@terrasys.com"
+  },
+  {
+    "id": "63577eee3f4f10f4680d4817",
+    "index": 3,
+    "name": " Program with  Python",
+    "picture": "https://cdn.asaha.com/assets/thumbs/6b1/6b11804596aef6423d5dcb4d4f03b364.jpg",
+    "price": 28,
+    "author": "Fabio Nelli",
+    "gender": "female",
+    "company": "COFINE",
+    "email": "gaylecarr@cofine.com"
+  },
+  {
+    "id": "63577eee18dc0c139ddfc7ed",
+    "index": 4,
+    "name": "Program with Java",
+    "picture": "https://cdn.asaha.com/assets/thumbs/d87/d87b720ae544742b0378e197c843dc85.jpg",
+    "price": 39,
+    "author": "Felix",
+    "gender": "male",
+    "company": "VIAGREAT",
+    "email": "parrishharper@viagreat.com"
+  },
+  {
+    "id": "63577eeeca4010833f5fb97f",
+    "index": 5,
+    "name": "PHP",
+    "picture": "https://cdn.asaha.com/assets/thumbs/976/97650b06332c2f952fc6eb604f290fab.jpg",
+    "price": 39,
+    "author": "Robert Dwight",
+    "gender": "male",
+    "company": "MAGNEMO",
+    "email": "blevinsjones@magnemo.com"
+  }
+]

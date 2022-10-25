@@ -5,19 +5,19 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const categorys = require("./data/category.json");
+const courses = require("./data/courses.json");
+// app.get("/", (req, res) => {
+//   res.send(`Sever running on port:${port}`);
+// });
 app.get("/", (req, res) => {
-  res.send(`Sever running on port:${port}`);
-});
-app.get("/categorys", (req, res) => {
-  res.send(categorys);
+  res.send(courses);
 });
 
-app.get("/categorys/:id", (req, res) => {
+app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
 
-  const category = categorys.find((category) => category.id === id);
-  res.send(category);
+  const course = courses.find((course) => course.id === id);
+  res.send(course);
 });
 app.listen(port, () => {
   console.log(`port running ${port}`);

@@ -19,5 +19,5 @@ app.get("/courses/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`port running ${port}`);
+  console.log(` Server port on  running ${port}`);
 });

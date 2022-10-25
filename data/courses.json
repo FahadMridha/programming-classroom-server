@@ -6,7 +6,7 @@
     "picture": "https://cdn.asaha.com/assets/thumbs/67b/67b163acd9f5cd1abd6765520893a910.jpg",
     "price": 34,
     "author": "Noel Kalicharan",
-    "gender": "female",
+    "language": "English",
     "company": "ORBIXTAR",
     "email": "feliciapollard@orbixtar.com"
   },
@@ -16,8 +16,8 @@
     "name": "Program with OOP",
     "picture": "https://cdn.asaha.com/assets/thumbs/ae9/ae9081d4ea4a0146ef6b6abef3cda18d.jpg",
     "price": 24,
-    "author": "Robin A.",
-    "gender": "male",
+    "author": "Robin",
+    "language": "male",
     "company": "MELBACOR",
     "email": "pacegay@melbacor.com"
   },
@@ -29,7 +29,7 @@
     "price": 33,
 
     "author": "Stephen Blumenthal",
-    "gender": "male",
+    "language": "male",
     "company": "TERRASYS",
     "email": "zamoraboyer@terrasys.com"
   },
@@ -40,7 +40,7 @@
     "picture": "https://cdn.asaha.com/assets/thumbs/6b1/6b11804596aef6423d5dcb4d4f03b364.jpg",
     "price": 28,
     "author": "Fabio Nelli",
-    "gender": "female",
+    "language": "English",
     "company": "COFINE",
     "email": "gaylecarr@cofine.com"
   },
@@ -51,7 +51,7 @@
     "picture": "https://cdn.asaha.com/assets/thumbs/d87/d87b720ae544742b0378e197c843dc85.jpg",
     "price": 39,
     "author": "Felix",
-    "gender": "male",
+    "language": "male",
     "company": "VIAGREAT",
     "email": "parrishharper@viagreat.com"
   },
@@ -62,7 +62,7 @@
     "picture": "https://cdn.asaha.com/assets/thumbs/976/97650b06332c2f952fc6eb604f290fab.jpg",
     "price": 39,
     "author": "Robert Dwight",
-    "gender": "male",
+    "language": "male",
     "company": "MAGNEMO",
     "email": "blevinsjones@magnemo.com"
   }

@@ -7,6 +7,7 @@
     "price": 34,
     "author": "Noel Kalicharan",
     "language": "English",
+    "description": "programming language, Language in which a computer programmer writes instructions for a computer to execute. Some languages, such as COBOL, FORTRAN, Pascal, and C, are known as procedural languages because they use a sequence of commands to specify how the machine is to solve a problem.",
     "company": "ORBIXTAR",
     "email": "feliciapollard@orbixtar.com"
   },
@@ -17,8 +18,9 @@
     "picture": "https://cdn.asaha.com/assets/thumbs/ae9/ae9081d4ea4a0146ef6b6abef3cda18d.jpg",
     "price": 24,
     "author": "Robin",
-    "language": "male",
+    "language": "English",
     "company": "MELBACOR",
+    "description": "programming language, Language in which a computer programmer writes instructions for a computer to execute. Some languages, such as COBOL, FORTRAN, Pascal, and C, are known as procedural languages because they use a sequence of commands to specify how the machine is to solve a problem.",
     "email": "pacegay@melbacor.com"
   },
   {
@@ -29,7 +31,8 @@
     "price": 33,
 
     "author": "Stephen Blumenthal",
-    "language": "male",
+    "language": "English",
+    "description": "programming language, Language in which a computer programmer writes instructions for a computer to execute. Some languages, such as COBOL, FORTRAN, Pascal, and C, are known as procedural languages because they use a sequence of commands to specify how the machine is to solve a problem.",
     "company": "TERRASYS",
     "email": "zamoraboyer@terrasys.com"
   },
@@ -41,6 +44,7 @@
     "price": 28,
     "author": "Fabio Nelli",
     "language": "English",
+    "description": "programming language, Language in which a computer programmer writes instructions for a computer to execute. Some languages, such as COBOL, FORTRAN, Pascal, and C, are known as procedural languages because they use a sequence of commands to specify how the machine is to solve a problem.",
     "company": "COFINE",
     "email": "gaylecarr@cofine.com"
   },
@@ -51,18 +55,20 @@
     "picture": "https://cdn.asaha.com/assets/thumbs/d87/d87b720ae544742b0378e197c843dc85.jpg",
     "price": 39,
     "author": "Felix Alvaro",
-    "language": "male",
+    "language": "English",
+    "description": "programming language, Language in which a computer programmer writes instructions for a computer to execute. Some languages, such as COBOL, FORTRAN, Pascal, and C, are known as procedural languages because they use a sequence of commands to specify how the machine is to solve a problem.",
     "company": "VIAGREAT",
     "email": "parrishharper@viagreat.com"
   },
   {
     "id": "63577eeeca4010833f5fb97f",
     "index": 5,
-    "name": "PHP",
+    "name": "Program with PHP",
     "picture": "https://cdn.asaha.com/assets/thumbs/976/97650b06332c2f952fc6eb604f290fab.jpg",
     "price": 39,
     "author": "Robert Dwight",
-    "language": "male",
+    "language": "English",
+    "description": "programming language, Language in which a computer programmer writes instructions for a computer to execute. Some languages, such as COBOL, FORTRAN, Pascal, and C, are known as procedural languages because they use a sequence of commands to specify how the machine is to solve a problem.",
     "company": "MAGNEMO",
     "email": "blevinsjones@magnemo.com"
   }
